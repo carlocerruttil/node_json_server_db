@@ -1,0 +1,73 @@
+{
+  "profesores": [
+    {
+      "nombre": "Carlo",
+      "apellido": "Cerrutti",
+      "materias": [
+        {
+          "nombre": "Matemáticas"
+        },
+        {
+          "nombre": "Ciencias"
+        },
+        {
+          "nombre": "Lenguaje"
+        }
+      ],
+      "id": "fdae"
+    },
+    {
+      "nombre": "Felipe",
+      "apellido": "AAA",
+      "materias": [
+        {
+          "nombre": "Leguaje"
+        },
+        {
+          "nombre": "Fisica"
+        }
+      ],
+      "id": "80ce"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Juan",
+      "apellido": "Lopez",
+      "nota": 3.4,
+      "id": "a8cb"
+    },
+    {
+      "nombre": "Pedro",
+      "apellido": "fur",
+      "nota": 7,
+      "id": "5e8a"
+    },
+    {
+      "nombre": "Sergio",
+      "apellido": "Pez",
+      "nota": 8.4,
+      "id": "ec10"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Matemáticas",
+      "duracion": 5,
+      "dificultad": "media",
+      "id": "ed4a"
+    },
+    {
+      "nombre": "Lenguaje",
+      "duracion": 5,
+      "dificultad": "media",
+      "id": "8d7e"
+    },
+    {
+      "nombre": "Ciencias",
+      "duracion": 5,
+      "dificultad": "media",
+      "id": "054d"
+    }
+  ]
+}
